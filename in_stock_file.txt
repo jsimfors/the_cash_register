@@ -1,0 +1,5 @@
+001 Normal-Banana 4.99 161
+002 Jungle-Banana 9.50 10
+003 Dangerous-Banana 7.99 434
+004 Poisonous-Banana 5.50 421
+999 Secret-Banana 3.99 2
